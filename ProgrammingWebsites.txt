@@ -1,5 +1,10 @@
 Programming websites
 https://www.geeksforgeeks.org
 http://www.tutorialspoint.com
+C++ Standards
+Linux ISO
 https://isocpp.org/
+
+Done my changes
+
 final copy
